@@ -1,0 +1,35 @@
+Form Handling
+
+    Filling out form fields
+    Form submission
+    Validation messages
+
+Interactions
+
+    Clicking buttons and links
+    Navigating between pages
+
+Assertions
+
+    Checking element visibility
+    Validating text content
+    URL assertions
+
+Network Requests
+
+    Mocking API responses
+    Waiting for network events
+
+Page Navigation
+
+    Waiting for navigations
+    URL assertions
+
+Test Configuration
+
+    Using fixtures
+    Configuring test setups
+
+Handling Delays
+
+    Using timeouts and waiting for elements to become visible
